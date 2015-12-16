@@ -1,15 +1,3 @@
-Tuesday Dec 8 we talked about
-
-Libraries - Pure Layout
-
-Debugging: 
-Core Data
-Collection View Cell Selection
-Grand Central Dispatch GCD 
-
-Culture - exponent.fm podcast
-
-
 # iOS Developer Connect Newsletter
 Tuesday Dec 15, 2015
 
@@ -41,4 +29,4 @@ How to use Cocoapods in [playgrounds](https://littlebitesofcocoa.com/138-using-c
 
 ## Finally
 
-For when you're stuck - [Don't give up!](https://www.youtube.com/watch?v=dQw4w9WgXcQ) Have a productive week!
+For when you're stuck - Don't give up! Have a productive week!
