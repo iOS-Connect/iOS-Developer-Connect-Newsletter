@@ -1,5 +1,5 @@
 # iOS Developer Connect Newsletter
-Tuesday Dec 22, 2015
+Thursday Jan 21, 2016
 
 We had a ton of new members show up this week! Thank you for showing up and we hope to continue seeing new faces. Again, we had every level from people who were just getting started to some who had apps in the App Store already. We had some entrepreneurs who were looking for feedback for their apps in the store as well.
 
