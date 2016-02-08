@@ -1,8 +1,6 @@
 # iOS Developer Connect Newsletter
 Date
 
-
-
 ## News
 
 Put Apple News and iOS News Here
@@ -11,7 +9,6 @@ Put Apple News and iOS News Here
 
 Who's new and any projects they are working on
 Other member news and work
-
 
 ## Projects from this week
 
@@ -25,14 +22,15 @@ If Applicable
 
 See what is in the resources channel on slack 
 
-## Anouncements Looking Ahead
-
-Sunday Link to the meetup Page 
-
-Tuesday Link to meetup Page
+## [Anouncements Looking Ahead](http://www.meetup.com/SantaClara-iOS/)
 
 Any scheduled events, what is next on the calendar. 
 
+[Hands-On iOS Project Group](http://www.meetup.com/SantaClara-iOS/)
+
+[Weekly iOS Developer Connect](http://www.meetup.com/SantaClara-iOS/)
+
+
 ## Finally
 
-Awesome programming video of johns choice. 
+Awesome programming video of john's choice. 
