@@ -1,4 +1,4 @@
-
+![Banner Image](https://raw.githubusercontent.com/iOS-Connect/iOS-Developer-Connect-Newsletter/master/Banner.png)
 # iOS Developer Connect Newsletter
 February 11, 2016
 
